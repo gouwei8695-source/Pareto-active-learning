@@ -1,6 +1,7 @@
 # README
 
 ## Overview
+Copyright © 2026 the authors. All rights reserved. The code is provided for peer-review evaluation and reproducibility checking only. Redistribution, modification and commercial use require prior written permission from the copyright holders.
 
 This repository provides the Python code for a data-driven materials design workflow, including:
 
